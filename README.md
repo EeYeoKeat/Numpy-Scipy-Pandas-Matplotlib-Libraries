@@ -11,5 +11,5 @@ In this section we’ll go over some common plots, namely the line chart, scatte
 <img src = "img/scatter linear line.png">
 <img src = "img/histogram.png">
 
-We’ll also look at how to show images using Matplotlib.
+We’ll also look at how to show images using Matplotlib. <br>
 <img src = "img/read image from matrix.png">
