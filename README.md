@@ -13,3 +13,20 @@ In this section we’ll go over some common plots, namely the line chart, scatte
 
 We’ll also look at how to show images using Matplotlib. <br>
 <img src = "img/read image from matrix.png">
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+<ul>
+  <li>Numpy</li>
+  <li>Matplotlib</li>
+  <li>Pandas</li>
+  <li>Scipy</li>
+</ul>
