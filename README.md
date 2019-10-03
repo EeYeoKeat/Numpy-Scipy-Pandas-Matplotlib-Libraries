@@ -1,5 +1,12 @@
 # Numpy-Scipy-Pandas-Matplotlib-Tutorials
 
+# Numpy
+
+NumPy is the fundamental package for scientific computing with Python and it able to handle a powerful N-dimensional array object.
+
+The central object in Numpy is the Numpy array, on which we can do various operations.
+
+The key is that a Numpy array isn’t just a regular array, but instead is like a mathematical object like a vector or a matrix. That means we can do vector and matrix operations like addition, subtraction, and multiplication.
 
 # Matplotlip
 
