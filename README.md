@@ -8,6 +8,9 @@ The central object in Numpy is the Numpy array, on which we can do various opera
 
 The key is that a Numpy array isn’t just a regular array, but instead is like a mathematical object like a vector or a matrix. That means we can do vector and matrix operations like addition, subtraction, and multiplication.
 
+# Pandas
+
+
 # Matplotlip
 
 Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy
@@ -21,6 +24,8 @@ In this section we’ll go over some common plots, namely the line chart, scatte
 We’ll also look at how to show images using Matplotlib. <br>
 <img src = "img/read image from matrix.png">
 
+
+# Seaborn
 
 
 
