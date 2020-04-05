@@ -1,5 +1,7 @@
 # Numpy-Scipy-Pandas-Matplotlib-Tutorials
 
+The tutorials mainly used for provide free basic training python class for student and also self-revision purpose.
+
 # Numpy
 
 NumPy is the fundamental package for scientific computing with Python and it able to handle a powerful N-dimensional array object.
